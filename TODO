@@ -1,0 +1,8 @@
+TODO
+
+* Convert TODO and README to POD
+* Register module name with CPAN
+* Convert script to module with Dist::Zilla
+* Tests, lots of em
+* Implement Bernstein's and Lenstra's algorithmic improvements
+* Documentation and links to papers

@@ -1,0 +1,5 @@
+Math::Primality::AKS
+
+Right now just holds a script that implements the AKS factoring alogrithm.
+
+See the TODO for more information.
